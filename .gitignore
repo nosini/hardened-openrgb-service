@@ -1,0 +1,3 @@
+# Generated per machine by openrgb-hardening.py udev-rules
+60-openrgb.rules
+__pycache__/
